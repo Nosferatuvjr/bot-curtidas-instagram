@@ -1,0 +1,592 @@
+1584727706511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jdsjh\\AppData\\Local\\Temp\\rust_mozprofileE8x8eP"
+1584727708534	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584727708534	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584727708534	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584727708535	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584727711829	Marionette	INFO	Listening on port 60922
+1584727712252	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9604, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14552, Chrome_C1584727816548	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jdsjh\\AppData\\Local\\Temp\\rust_mozprofileyL9SNE"
+1584727817493	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584727817493	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584727817493	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584727817493	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584727820061	Marionette	INFO	Listening on port 61266
+1584727820307	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 3732, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11272, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+[Child 11272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 3732, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chi1584727836105	Marionette	INFO	Stopped listening on port 61266
+[GPU 7360, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609751228679	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VIVALD~1\\AppData\\Local\\Temp\\rust_mozprofileUnAHW5"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: Failed to link shader program: composite
+
+[ERROR webrender::device::gl] Failed to link shader program: composite
+
+[GFX1-]: wr_renderer_render: Shader(Link("composite", ""))
+JavaScript error: resource://gre/modules/PlacesUtils.jsm, line 1972: NS_ERROR_FILE_NOT_FOUND: 
+[GFX1]: Failed to create DrawTarget, Type: 3 Size: Size(160,234)
+JavaScript error: resource://gre/modules/SanityTest.jsm, line 112: NS_ERROR_FAILURE: 
+[GFX1-]: [D3D11] create swap chain failed: 0x8007000e, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+[GFX1-]: Compositors might be mixed (5,1)
+JavaScript error: resource://gre/modules/workers/require.js, line 132: Error: Error: Could not find module resource://gre/modules/osfile/osfile_shared_allthreads.jsm
+console.error: "Could not load engine google@search.mozilla.org: Error: Extension is invalid"
+console.error: "Could not load engine wikipedia@search.mozilla.org: out of memory"
+JavaScript error: , line 0: uncaught exception: out of memory
+Hit MOZ_CRASH([unhandlable oom] Failed to allocate slots while tenuring.) at /builds/worker/checkouts/gecko/js/src/vm/JSContext.cpp:1179
+console.error: 
+console.error: 
+console.error: 
+console.error: SearchService:  (void 0)
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: Error: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: 2147500037
+JavaScript error: , line 0: NS_ERROR_FAILURE: SearchService previously failed to initialize
+JavaScript error: , line 0: uncaught exception: 2147500037
+JavaScript error: , line 0: uncaught exception: 2147500037
+JavaScript error: , line 0: uncaught exception: 2147500037
+JavaScript error: , line 0: NS_ERROR_FAILURE: SearchService initialization failed
+[GFX1-]: Failed to create a D3D11 content device: 0x8007000e
+JavaScript error: resource://gre/modules/Region.jsm, line 361: uncaught exception: out of memory
+console.error: Region.jsm: "Failed to fetch region" ({})
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/PlacesCategoriesStarter.jsm, line 48: uncaught exception: out of memory
+JavaScript error: , line 0: unknown (can't convert to string)
+out of memory: 0x000000000000E000 bytes requested
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1609751303677	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VIVALD~1\\AppData\\Local\\Temp\\rust_mozprofilej7EO1o"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609751306404	Marionette	INFO	Listening on port 23420
+1609751306866	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609751332208	Marionette	INFO	Stopped listening on port 23420
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609751408200	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VIVALD~1\\AppData\\Local\\Temp\\rust_mozprofileBVpksB"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609751410979	Marionette	INFO	Listening on port 23515
+1609751411387	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609751415165	Marionette	INFO	Stopped listening on port 23515
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609751516999	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VIVALD~1\\AppData\\Local\\Temp\\rust_mozprofileoHyayh"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609751520930	Marionette	INFO	Listening on port 23588
+1609751521217	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+1609751808098	Marionette	INFO	Stopped listening on port 23588
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609751854747	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VIVALD~1\\AppData\\Local\\Temp\\rust_mozprofile84JY5f"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609751857845	Marionette	INFO	Listening on port 23694
+1609751857952	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609751866342	Marionette	INFO	Stopped listening on port 23694
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609751929790	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VIVALD~1\\AppData\\Local\\Temp\\rust_mozprofile7lIe9T"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609751932866	Marionette	INFO	Listening on port 23761
+1609751932994	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1609751994248	Marionette	INFO	Stopped listening on port 23761
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609752008337	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VIVALD~1\\AppData\\Local\\Temp\\rust_mozprofileFmokyI"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609752011379	Marionette	INFO	Listening on port 23841
+1609752011539	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+1609752271847	Marionette	INFO	Stopped listening on port 23841
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609752347465	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VIVALD~1\\AppData\\Local\\Temp\\rust_mozprofilerB6wMN"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609752351080	Marionette	INFO	Listening on port 23938
+1609752351172	Marionette	WARN	TLS certificate errors will be ignored for this session
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1163"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1163:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:629:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:738:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1163, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1262:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1487:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1210:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:632:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:738:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1262, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1262))
+console.error: (new Error("Resource \"server0.conn0.child3/source203\" already exists, cannot insert {\"id\":\"server0.conn0.child3/source203\",\"actor\":\"server0.conn0.child3/source203\",\"thread\":\"server0.conn0.child3/thread22\",\"source\":\"sourceURL-https://www.instagram.com/p/CJXaXUPhaFl/\",\"isBlackBoxed\":false,\"sourceMapBaseURL\":\"https://www.instagram.com/p/CJXaXUPhaFl/\",\"sourceMapURL\":null,\"url\":\"https://www.instagram.com/p/CJXaXUPhaFl/\",\"introductionType\":\"scriptElement\",\"breakpointPositions\":{},\"breakableLines\":null}", "resource://devtools/client/debugger/src/utils/resource/core.js", 42))
+console.error: "Error sending event: serverWebSocketClosed"
+console.error: (new Error("undefined passed where a value is required", "resource://devtools/shared/protocol/types.js", 110))
+Error: undefined passed where a value is required: identityWrite@resource://devtools/shared/protocol/types.js:110:11
+write@resource://devtools/shared/protocol/Request.js:109:22
+write@resource://devtools/shared/protocol/Request.js:39:26
+_sendEvent@resource://devtools/shared/protocol/Actor.js:66:24
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+webSocketClosed@resource://devtools/server/actors/network-monitor/websocket-actor.js:96:10
+
+JavaScript error: resource://devtools/client/debugger/src/utils/resource/core.js, line 42: Error: Resource "server0.conn0.child3/source409" already exists, cannot insert {"id":"server0.conn0.child3/source409","actor":"server0.conn0.child3/source409","thread":"server0.conn0.child3/thread22","source":"sourceURL-https://www.instagram.com/p/CI_pTMAsQn-/","isBlackBoxed":false,"sourceMapBaseURL":"https://www.instagram.com/p/CI_pTMAsQn-/","sourceMapURL":null,"url":"https://www.instagram.com/p/CI_pTMAsQn-/","introductionType":"scriptElement","breakpointPositions":{},"breakableLines":null}
+JavaScript error: resource://devtools/client/debugger/src/utils/resource/core.js, line 42: Error: Resource "server0.conn0.child3/source411" already exists, cannot insert {"id":"server0.conn0.child3/source411","actor":"server0.conn0.child3/source411","thread":"server0.conn0.child3/thread22","source":"sourceURL-https://www.instagram.com/p/CI_pTMAsQn-/","isBlackBoxed":false,"sourceMapBaseURL":"https://www.instagram.com/p/CI_pTMAsQn-/","sourceMapURL":null,"url":"https://www.instagram.com/p/CI_pTMAsQn-/","introductionType":"scriptElement","breakpointPositions":{},"breakableLines":null}
+JavaScript error: resource://devtools/client/debugger/src/utils/resource/core.js, line 42: Error: Resource "server0.conn0.child3/source418" already exists, cannot insert {"id":"server0.conn0.child3/source418","actor":"server0.conn0.child3/source418","thread":"server0.conn0.child3/thread22","source":"sourceURL-https://www.instagram.com/static/bundles/es6/Vendor.js/c911f5848b78.js","isBlackBoxed":false,"sourceMapBaseURL":"https://www.instagram.com/static/bundles/es6/Vendor.js/c911f5848b78.js","sourceMapURL":null,"url":"https://www.instagram.com/static/bundles/es6/Vendor.js/c911f5848b78.js","introductionType":"scriptElement","breakpointPositions":{},"breakableLines":null}
+JavaScript error: resource://devtools/client/debugger/src/utils/resource/core.js, line 42: Error: Resource "server0.conn0.child3/source546" already exists, cannot insert {"id":"server0.conn0.child3/source546","actor":"server0.conn0.child3/source546","thread":"server0.conn0.child3/thread22","source":"sourceURL-https://www.instagram.com/static/bundles/es6/Consumer.js/b75e6b6ebcdc.js","isBlackBoxed":false,"sourceMapBaseURL":"https://www.instagram.com/static/bundles/es6/Consumer.js/b75e6b6ebcdc.js","sourceMapURL":null,"url":"https://www.instagram.com/static/bundles/es6/Consumer.js/b75e6b6ebcdc.js","introductionType":"scriptElement","breakpointPositions":{},"breakableLines":null}
+JavaScript error: resource://devtools/client/debugger/src/utils/resource/core.js, line 42: Error: Resource "server0.conn0.child3/source587" already exists, cannot insert {"id":"server0.conn0.child3/source587","actor":"server0.conn0.child3/source587","thread":"server0.conn0.child3/thread22","source":"sourceURL-https://www.instagram.com/static/bundles/es6/PostPageContainer.js/9fc83aaff66b.js","isBlackBoxed":false,"sourceMapBaseURL":"https://www.instagram.com/static/bundles/es6/PostPageContainer.js/9fc83aaff66b.js","sourceMapURL":null,"url":"https://www.instagram.com/static/bundles/es6/PostPageContainer.js/9fc83aaff66b.js","introductionType":"scriptElement","breakpointPositions":{},"breakableLines":null}
+JavaScript error: resource://devtools/client/debugger/src/utils/resource/core.js, line 42: Error: Resource "server0.conn0.child3/source589" already exists, cannot insert {"id":"server0.conn0.child3/source589","actor":"server0.conn0.child3/source589","thread":"server0.conn0.child3/thread22","source":"sourceURL-https://www.instagram.com/static/bundles/es6/BDClientSignalCollectionTrigger.js/1618e6862ca4.js","isBlackBoxed":false,"sourceMapBaseURL":"https://www.instagram.com/static/bundles/es6/BDClientSignalCollectionTrigger.js/1618e6862ca4.js","sourceMapURL":null,"url":"https://www.instagram.com/static/bundles/es6/BDClientSignalCollectionTrigger.js/1618e6862ca4.js","introductionType":"scriptElement","breakpointPositions":{},"breakableLines":null}
+JavaScript error: resource://devtools/client/debugger/src/utils/resource/core.js, line 42: Error: Resource "server0.conn0.child3/source590" already exists, cannot insert {"id":"server0.conn0.child3/source590","actor":"server0.conn0.child3/source590","thread":"server0.conn0.child3/thread22","source":"sourceURL-https://www.instagram.com/static/bundles/es6/PostComments.js/e3c3301a3ff3.js","isBlackBoxed":false,"sourceMapBaseURL":"https://www.instagram.com/static/bundles/es6/PostComments.js/e3c3301a3ff3.js","sourceMapURL":null,"url":"https://www.instagram.com/static/bundles/es6/PostComments.js/e3c3301a3ff3.js","introductionType":"scriptElement","breakpointPositions":{},"breakableLines":null}
+JavaScript error: resource://devtools/client/debugger/src/utils/resource/core.js, line 42: Error: Resource "server0.conn0.child3/source592" already exists, cannot insert {"id":"server0.conn0.child3/source592","actor":"server0.conn0.child3/source592","thread":"server0.conn0.child3/thread22","source":"sourceURL-https://www.instagram.com/static/bundles/es6/ActivityFeedBox.js/552aa9b52684.js","isBlackBoxed":false,"sourceMapBaseURL":"https://www.instagram.com/static/bundles/es6/ActivityFeedBox.js/552aa9b52684.js","sourceMapURL":null,"url":"https://www.instagram.com/static/bundles/es6/ActivityFeedBox.js/552aa9b52684.js","introductionType":"scriptElement","breakpointPositions":{},"breakableLines":null}
+JavaScript error: resource://devtools/client/debugger/src/utils/resource/core.js, line 42: Error: Resource "server0.conn0.child3/source597" already exists, cannot insert {"id":"server0.conn0.child3/source597","actor":"server0.conn0.child3/source597","thread":"server0.conn0.child3/thread22","source":"sourceURL-https://connect.facebook.net/en_US/sdk.js","isBlackBoxed":false,"sourceMapBaseURL":"https://connect.facebook.net/en_US/sdk.js","sourceMapURL":null,"url":"https://connect.facebook.net/en_US/sdk.js","introductionType":"scriptElement","breakpointPositions":{},"breakableLines":null}
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1163"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1163:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:629:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:738:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1163, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1262:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1487:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1210:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:632:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:738:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1262, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1262))
+JavaScript error: resource://devtools/client/debugger/src/utils/resource/core.js, line 42: Error: Resource "server0.conn0.child3/source684" already exists, cannot insert {"id":"server0.conn0.child3/source684","actor":"server0.conn0.child3/source684","thread":"server0.conn0.child3/thread22","source":"sourceURL-https://connect.facebook.net/en_US/sdk.js?hash=0c911418ba1788e6eb6c5a9cbc0b1ce2","isBlackBoxed":false,"sourceMapBaseURL":"https://connect.facebook.net/en_US/sdk.js?hash=0c911418ba1788e6eb6c5a9cbc0b1ce2","sourceMapURL":null,"url":"https://connect.facebook.net/en_US/sdk.js?hash=0c911418ba1788e6eb6c5a9cbc0b1ce2","introductionType":"scriptElement","breakpointPositions":{},"breakableLines":null}
+JavaScript error: resource://devtools/client/debugger/src/utils/resource/core.js, line 42: Error: Resource "server0.conn0.child3/source712" already exists, cannot insert {"id":"server0.conn0.child3/source712","actor":"server0.conn0.child3/source712","thread":"server0.conn0.child3/thread22","source":"sourceURL-https://www.instagram.com/p/CJMdtt0gN1K/","isBlackBoxed":false,"sourceMapBaseURL":"https://www.instagram.com/p/CJMdtt0gN1K/","sourceMapURL":null,"url":"https://www.instagram.com/p/CJMdtt0gN1K/","introductionType":"scriptElement","breakpointPositions":{},"breakableLines":null}
+JavaScript error: resource://devtools/client/debugger/src/utils/resource/core.js, line 42: Error: Resource "server0.conn0.child3/source715" already exists, cannot insert {"id":"server0.conn0.child3/source715","actor":"server0.conn0.child3/source715","thread":"server0.conn0.child3/thread22","source":"sourceURL-https://www.instagram.com/p/CJMdtt0gN1K/","isBlackBoxed":false,"sourceMapBaseURL":"https://www.instagram.com/p/CJMdtt0gN1K/","sourceMapURL":null,"url":"https://www.instagram.com/p/CJMdtt0gN1K/","introductionType":"scriptElement","breakpointPositions":{},"breakableLines":null}
+JavaScript error: resource://devtools/client/debugger/src/utils/resource/core.js, line 42: Error: Resource "server0.conn0.child3/source728" already exists, cannot insert {"id":"server0.conn0.child3/source728","actor":"server0.conn0.child3/source728","thread":"server0.conn0.child3/thread22","source":"sourceURL-https://www.instagram.com/static/bundles/es6/PostPageContainer.js/9fc83aaff66b.js","isBlackBoxed":false,"sourceMapBaseURL":"https://www.instagram.com/static/bundles/es6/PostPageContainer.js/9fc83aaff66b.js","sourceMapURL":null,"url":"https://www.instagram.com/static/bundles/es6/PostPageContainer.js/9fc83aaff66b.js","introductionType":"scriptElement","breakpointPositions":{},"breakableLines":null}
+JavaScript error: resource://devtools/client/debugger/src/utils/resource/core.js, line 42: Error: Resource "server0.conn0.child3/source780" already exists, cannot insert {"id":"server0.conn0.child3/source780","actor":"server0.conn0.child3/source780","thread":"server0.conn0.child3/thread22","source":"sourceURL-https://www.instagram.com/static/bundles/es6/Consumer.js/b75e6b6ebcdc.js","isBlackBoxed":false,"sourceMapBaseURL":"https://www.instagram.com/static/bundles/es6/Consumer.js/b75e6b6ebcdc.js","sourceMapURL":null,"url":"https://www.instagram.com/static/bundles/es6/Consumer.js/b75e6b6ebcdc.js","introductionType":"scriptElement","breakpointPositions":{},"breakableLines":null}
+JavaScript error: resource://devtools/client/debugger/src/utils/resource/core.js, line 42: Error: Resource "server0.conn0.child3/source914" already exists, cannot insert {"id":"server0.conn0.child3/source914","actor":"server0.conn0.child3/source914","thread":"server0.conn0.child3/thread22","source":"sourceURL-https://www.instagram.com/static/bundles/es6/PostPageContainer.js/9fc83aaff66b.js","isBlackBoxed":false,"sourceMapBaseURL":"https://www.instagram.com/static/bundles/es6/PostPageContainer.js/9fc83aaff66b.js","sourceMapURL":null,"url":"https://www.instagram.com/static/bundles/es6/PostPageContainer.js/9fc83aaff66b.js","introductionType":"scriptElement","breakpointPositions":{},"breakableLines":null}
+JavaScript error: resource://devtools/client/debugger/src/utils/resource/core.js, line 42: Error: Resource "server0.conn0.child3/source915" already exists, cannot insert {"id":"server0.conn0.child3/source915","actor":"server0.conn0.child3/source915","thread":"server0.conn0.child3/thread22","source":"source-server0.conn0.child3/source915","isBlackBoxed":false,"sourceMapBaseURL":"https://www.instagram.com/p/CJMdtt0gN1K/","sourceMapURL":null,"url":null,"introductionType":"Function","breakpointPositions":{},"breakableLines":null}
+JavaScript error: resource://devtools/client/debugger/src/utils/resource/core.js, line 42: Error: Resource "server0.conn0.child3/source962" already exists, cannot insert {"id":"server0.conn0.child3/source962","actor":"server0.conn0.child3/source962","thread":"server0.conn0.child3/thread22","source":"sourceURL-https://www.instagram.com/static/bundles/es6/PostComments.js/e3c3301a3ff3.js","isBlackBoxed":false,"sourceMapBaseURL":"https://www.instagram.com/static/bundles/es6/PostComments.js/e3c3301a3ff3.js","sourceMapURL":null,"url":"https://www.instagram.com/static/bundles/es6/PostComments.js/e3c3301a3ff3.js","introductionType":"scriptElement","breakpointPositions":{},"breakableLines":null}
+JavaScript error: resource://devtools/client/debugger/src/utils/resource/core.js, line 42: Error: Resource "server0.conn0.child3/source968" already exists, cannot insert {"id":"server0.conn0.child3/source968","actor":"server0.conn0.child3/source968","thread":"server0.conn0.child3/thread22","source":"sourceURL-https://www.instagram.com/static/bundles/es6/DirectMQTT.js/63eb9793a4cf.js","isBlackBoxed":false,"sourceMapBaseURL":"https://www.instagram.com/static/bundles/es6/DirectMQTT.js/63eb9793a4cf.js","sourceMapURL":null,"url":"https://www.instagram.com/static/bundles/es6/DirectMQTT.js/63eb9793a4cf.js","introductionType":"scriptElement","breakpointPositions":{},"breakableLines":null}
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1163"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1163:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:629:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:738:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1163, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1262:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1487:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1210:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:632:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:738:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1262, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1262))
+JavaScript error: resource://devtools/client/debugger/src/utils/resource/core.js, line 42: Error: Resource "server0.conn0.child3/source1081" already exists, cannot insert {"id":"server0.conn0.child3/source1081","actor":"server0.conn0.child3/source1081","thread":"server0.conn0.child3/thread22","source":"sourceURL-https://www.instagram.com/p/CJjjedWLkoR/","isBlackBoxed":false,"sourceMapBaseURL":"https://www.instagram.com/p/CJjjedWLkoR/","sourceMapURL":null,"url":"https://www.instagram.com/p/CJjjedWLkoR/","introductionType":"scriptElement","breakpointPositions":{},"breakableLines":null}
+JavaScript error: resource://devtools/client/debugger/src/utils/resource/core.js, line 42: Error: Resource "server0.conn0.child3/source1087" already exists, cannot insert {"id":"server0.conn0.child3/source1087","actor":"server0.conn0.child3/source1087","thread":"server0.conn0.child3/thread22","source":"sourceURL-https://www.instagram.com/p/CJjjedWLkoR/","isBlackBoxed":false,"sourceMapBaseURL":"https://www.instagram.com/p/CJjjedWLkoR/","sourceMapURL":null,"url":"https://www.instagram.com/p/CJjjedWLkoR/","introductionType":"scriptElement","breakpointPositions":{},"breakableLines":null}
+JavaScript error: resource://devtools/client/debugger/src/utils/resource/core.js, line 42: Error: Resource "server0.conn0.child3/source1332" already exists, cannot insert {"id":"server0.conn0.child3/source1332","actor":"server0.conn0.child3/source1332","thread":"server0.conn0.child3/thread22","source":"sourceURL-https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/37122a5b2d59.js","isBlackBoxed":false,"sourceMapBaseURL":"https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/37122a5b2d59.js","sourceMapURL":null,"url":"https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/37122a5b2d59.js","introductionType":"scriptElement","breakpointPositions":{},"breakableLines":null}
+JavaScript error: resource://devtools/client/debugger/src/utils/resource/core.js, line 42: Error: Resource "server0.conn0.child3/source1338" already exists, cannot insert {"id":"server0.conn0.child3/source1338","actor":"server0.conn0.child3/source1338","thread":"server0.conn0.child3/thread22","source":"sourceURL-https://www.instagram.com/static/bundles/es6/Consumer.js/b75e6b6ebcdc.js","isBlackBoxed":false,"sourceMapBaseURL":"https://www.instagram.com/static/bundles/es6/Consumer.js/b75e6b6ebcdc.js","sourceMapURL":null,"url":"https://www.instagram.com/static/bundles/es6/Consumer.js/b75e6b6ebcdc.js","introductionType":"scriptElement","breakpointPositions":{},"breakableLines":null}
+JavaScript error: resource://devtools/client/debugger/src/utils/resource/core.js, line 42: Error: Resource "server0.conn0.child3/source1341" already exists, cannot insert {"id":"server0.conn0.child3/source1341","actor":"server0.conn0.child3/source1341","thread":"server0.conn0.child3/thread22","source":"sourceURL-https://connect.facebook.net/en_US/sdk.js","isBlackBoxed":false,"sourceMapBaseURL":"https://connect.facebook.net/en_US/sdk.js","sourceMapURL":null,"url":"https://connect.facebook.net/en_US/sdk.js","introductionType":"scriptElement","breakpointPositions":{},"breakableLines":null}
+JavaScript error: resource://devtools/client/debugger/src/utils/resource/core.js, line 42: Error: Resource "server0.conn0.child3/source1398" already exists, cannot insert {"id":"server0.conn0.child3/source1398","actor":"server0.conn0.child3/source1398","thread":"server0.conn0.child3/thread22","source":"sourceURL-https://www.instagram.com/static/bundles/es6/PostComments.js/e3c3301a3ff3.js","isBlackBoxed":false,"sourceMapBaseURL":"https://www.instagram.com/static/bundles/es6/PostComments.js/e3c3301a3ff3.js","sourceMapURL":null,"url":"https://www.instagram.com/static/bundles/es6/PostComments.js/e3c3301a3ff3.js","introductionType":"scriptElement","breakpointPositions":{},"breakableLines":null}
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1163"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1163:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:629:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:738:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1163, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1262:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1487:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1210:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:632:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:738:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1262, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1262))
+JavaScript error: resource://devtools/client/debugger/src/utils/resource/core.js, line 42: Error: Resource "server0.conn0.child3/source1521" already exists, cannot insert {"id":"server0.conn0.child3/source1521","actor":"server0.conn0.child3/source1521","thread":"server0.conn0.child3/thread22","source":"sourceURL-https://www.instagram.com/p/CI_nF_ig6Io/","isBlackBoxed":false,"sourceMapBaseURL":"https://www.instagram.com/p/CI_nF_ig6Io/","sourceMapURL":null,"url":"https://www.instagram.com/p/CI_nF_ig6Io/","introductionType":"scriptElement","breakpointPositions":{},"breakableLines":null}
+JavaScript error: resource://devtools/client/debugger/src/utils/resource/core.js, line 42: Error: Resource "server0.conn0.child3/source1527" already exists, cannot insert {"id":"server0.conn0.child3/source1527","actor":"server0.conn0.child3/source1527","thread":"server0.conn0.child3/thread22","source":"sourceURL-https://www.instagram.com/p/CI_nF_ig6Io/","isBlackBoxed":false,"sourceMapBaseURL":"https://www.instagram.com/p/CI_nF_ig6Io/","sourceMapURL":null,"url":"https://www.instagram.com/p/CI_nF_ig6Io/","introductionType":"scriptElement","breakpointPositions":{},"breakableLines":null}
+JavaScript error: resource://devtools/client/debugger/src/utils/resource/core.js, line 42: Error: Resource "server0.conn0.child3/source1832" already exists, cannot insert {"id":"server0.conn0.child3/source1832","actor":"server0.conn0.child3/source1832","thread":"server0.conn0.child3/thread22","source":"sourceURL-https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/37122a5b2d59.js","isBlackBoxed":false,"sourceMapBaseURL":"https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/37122a5b2d59.js","sourceMapURL":null,"url":"https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/37122a5b2d59.js","introductionType":"scriptElement","breakpointPositions":{},"breakableLines":null}
+JavaScript error: resource://devtools/client/debugger/src/utils/resource/core.js, line 42: Error: Resource "server0.conn0.child3/source1838" already exists, cannot insert {"id":"server0.conn0.child3/source1838","actor":"server0.conn0.child3/source1838","thread":"server0.conn0.child3/thread22","source":"sourceURL-https://www.instagram.com/static/bundles/es6/Consumer.js/b75e6b6ebcdc.js","isBlackBoxed":false,"sourceMapBaseURL":"https://www.instagram.com/static/bundles/es6/Consumer.js/b75e6b6ebcdc.js","sourceMapURL":null,"url":"https://www.instagram.com/static/bundles/es6/Consumer.js/b75e6b6ebcdc.js","introductionType":"scriptElement","breakpointPositions":{},"breakableLines":null}
+JavaScript error: resource://devtools/client/debugger/src/utils/resource/core.js, line 42: Error: Resource "server0.conn0.child3/source1939" already exists, cannot insert {"id":"server0.conn0.child3/source1939","actor":"server0.conn0.child3/source1939","thread":"server0.conn0.child3/thread22","source":"source-server0.conn0.child3/source1939","isBlackBoxed":false,"sourceMapBaseURL":"https://www.instagram.com/p/CI_nF_ig6Io/","sourceMapURL":null,"url":null,"introductionType":"Function","breakpointPositions":{},"breakableLines":null}
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1163"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1163:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:629:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:738:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1163, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1262:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1487:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1210:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:632:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:738:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1262, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1262))
+JavaScript error: resource://devtools/client/debugger/src/utils/resource/core.js, line 42: Error: Resource "server0.conn0.child3/source1971" already exists, cannot insert {"id":"server0.conn0.child3/source1971","actor":"server0.conn0.child3/source1971","thread":"server0.conn0.child3/thread22","source":"sourceURL-https://www.instagram.com/static/bundles/es6/MobileAllCommentsPage.js/debbf66e6f29.js","isBlackBoxed":false,"sourceMapBaseURL":"https://www.instagram.com/static/bundles/es6/MobileAllCommentsPage.js/debbf66e6f29.js","sourceMapURL":null,"url":"https://www.instagram.com/static/bundles/es6/MobileAllCommentsPage.js/debbf66e6f29.js","introductionType":"scriptElement","breakpointPositions":{},"breakableLines":null}
+JavaScript error: resource://devtools/client/debugger/src/utils/resource/core.js, line 42: Error: Resource "server0.conn0.child3/source2008" already exists, cannot insert {"id":"server0.conn0.child3/source2008","actor":"server0.conn0.child3/source2008","thread":"server0.conn0.child3/thread22","source":"sourceURL-https://connect.facebook.net/en_US/sdk.js?hash=0c911418ba1788e6eb6c5a9cbc0b1ce2","isBlackBoxed":false,"sourceMapBaseURL":"https://connect.facebook.net/en_US/sdk.js?hash=0c911418ba1788e6eb6c5a9cbc0b1ce2","sourceMapURL":null,"url":"https://connect.facebook.net/en_US/sdk.js?hash=0c911418ba1788e6eb6c5a9cbc0b1ce2","introductionType":"scriptElement","breakpointPositions":{},"breakableLines":null}
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609752506312	Marionette	INFO	Stopped listening on port 23938
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609753040548	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VIVALD~1\\AppData\\Local\\Temp\\rust_mozprofilethr2C3"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609753043588	Marionette	INFO	Listening on port 24156
+1609753043752	Marionette	WARN	TLS certificate errors will be ignored for this session
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1163"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1163:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:629:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:738:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1163, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1262:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1487:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1210:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:632:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:738:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1262, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1262))
+console.error: "Error sending event: overflow-change"
+console.error: ({})
+[Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIEventListenerService.getListenerInfoFor]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://devtools/server/actors/inspector/event-collector.js :: getDOMListeners :: line 266"  data: no]: getDOMListeners@resource://devtools/server/actors/inspector/event-collector.js:266:22
+getListeners@resource://devtools/server/actors/inspector/event-collector.js:334:28
+hasListeners@resource://devtools/server/actors/inspector/event-collector.js:227:17
+hasEventListeners@resource://devtools/server/actors/inspector/event-collector.js:800:21
+get _hasEventListeners@resource://devtools/server/actors/inspector/node.js:385:33
+form@resource://devtools/server/actors/inspector/node.js:207:7
+write@resource://devtools/shared/protocol/types.js:358:32
+types.addArrayType/write/<@resource://devtools/shared/protocol/types.js:215:33
+write@resource://devtools/shared/protocol/types.js:215:16
+write@resource://devtools/shared/protocol/Request.js:109:22
+write@resource://devtools/shared/protocol/Request.js:39:26
+_sendEvent@resource://devtools/shared/protocol/Actor.js:66:24
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onReflows@resource://devtools/server/actors/inspector/walker.js:588:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_startEventLoop@resource://devtools/server/actors/reflow.js:314:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+console.error: "Error sending event: display-change"
+console.error: ({})
+[Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIEventListenerService.getListenerInfoFor]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://devtools/server/actors/inspector/event-collector.js :: getDOMListeners :: line 266"  data: no]: getDOMListeners@resource://devtools/server/actors/inspector/event-collector.js:266:22
+getListeners@resource://devtools/server/actors/inspector/event-collector.js:334:28
+hasListeners@resource://devtools/server/actors/inspector/event-collector.js:227:17
+hasEventListeners@resource://devtools/server/actors/inspector/event-collector.js:800:21
+get _hasEventListeners@resource://devtools/server/actors/inspector/node.js:385:33
+form@resource://devtools/server/actors/inspector/node.js:207:7
+write@resource://devtools/shared/protocol/types.js:358:32
+types.addArrayType/write/<@resource://devtools/shared/protocol/types.js:215:33
+write@resource://devtools/shared/protocol/types.js:215:16
+write@resource://devtools/shared/protocol/Request.js:109:22
+write@resource://devtools/shared/protocol/Request.js:39:26
+_sendEvent@resource://devtools/shared/protocol/Actor.js:66:24
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onReflows@resource://devtools/server/actors/inspector/walker.js:592:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_startEventLoop@resource://devtools/server/actors/reflow.js:314:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+console.error: "Error sending event: scrollable-change"
+console.error: ({})
+[Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIEventListenerService.getListenerInfoFor]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://devtools/server/actors/inspector/event-collector.js :: getDOMListeners :: line 266"  data: no]: getDOMListeners@resource://devtools/server/actors/inspector/event-collector.js:266:22
+getListeners@resource://devtools/server/actors/inspector/event-collector.js:334:28
+hasListeners@resource://devtools/server/actors/inspector/event-collector.js:227:17
+hasEventListeners@resource://devtools/server/actors/inspector/event-collector.js:800:21
+get _hasEventListeners@resource://devtools/server/actors/inspector/node.js:385:33
+form@resource://devtools/server/actors/inspector/node.js:207:7
+write@resource://devtools/shared/protocol/types.js:358:32
+types.addArrayType/write/<@resource://devtools/shared/protocol/types.js:215:33
+write@resource://devtools/shared/protocol/types.js:215:16
+write@resource://devtools/shared/protocol/Request.js:109:22
+write@resource://devtools/shared/protocol/Request.js:39:26
+_sendEvent@resource://devtools/shared/protocol/Actor.js:66:24
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onReflows@resource://devtools/server/actors/inspector/walker.js:596:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_startEventLoop@resource://devtools/server/actors/reflow.js:314:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/client/fronts/node.js, line 418: TypeError: this.parentFront is null
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1163"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1163:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:629:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:738:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1163, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1262:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1487:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1210:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:632:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:738:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1262, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1262))
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1163"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1163:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:629:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:738:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1163, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1262:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1487:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1210:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:632:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:738:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1262, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1262))
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1163"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1163:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:629:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:738:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1163, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1262:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1487:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1210:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:632:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:738:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1262, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1262))
+1609753115108	Marionette	INFO	Stopped listening on port 24156
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609753436928	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VIVALD~1\\AppData\\Local\\Temp\\rust_mozprofileNw7NHi"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609753440517	Marionette	INFO	Listening on port 24420
+1609753440663	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609753491688	Marionette	INFO	Stopped listening on port 24420
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609753667233	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VIVALD~1\\AppData\\Local\\Temp\\rust_mozprofilelU03S2"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609753670235	Marionette	INFO	Listening on port 24631
+1609753670418	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609753803851	Marionette	INFO	Stopped listening on port 24631
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+eEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609753804337	Marionette	INFO	Listening on port 24796
+1609753804625	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609754044843	Marionette	INFO	Stopped listening on port 24796
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609754055850	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VIVALD~1\\AppData\\Local\\Temp\\rust_mozprofile1Qs0il"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609754058920	Marionette	INFO	Listening on port 25014
+1609754059068	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609754182086	Marionette	INFO	Stopped listening on port 25014
+1609754190054	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VIVALD~1\\AppData\\Local\\Temp\\rust_mozprofileKPjc68"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609754193150	Marionette	INFO	Listening on port 25168
+1609754193252	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609754305913	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VIVALD~1\\AppData\\Local\\Temp\\rust_mozprofile7FeNIy"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609754308739	Marionette	INFO	Listening on port 25312
+1609754309087	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609754341319	Marionette	INFO	Stopped listening on port 25312
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609754355797	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VIVALD~1\\AppData\\Local\\Temp\\rust_mozprofileJxFObA"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609754358828	Marionette	INFO	Listening on port 25409
+1609754358988	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609754383390	Marionette	INFO	Stopped listening on port 25409
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609754724946	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VIVALD~1\\AppData\\Local\\Temp\\rust_mozprofilephjtPW"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609754727945	Marionette	INFO	Listening on port 25658
+1609754728134	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609754790528	Marionette	INFO	Stopped listening on port 25658
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609754924952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VIVALD~1\\AppData\\Local\\Temp\\rust_mozprofile0w89C3"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609754927943	Marionette	INFO	Listening on port 25843
+1609754928158	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: NotFoundError: No such JSWindowActor 'MarionetteCommands'
+1609754955508	Marionette	INFO	Stopped listening on port 25843
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609755044808	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VIVALD~1\\AppData\\Local\\Temp\\rust_mozprofileSAres8"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609755047646	Marionette	INFO	Listening on port 25985
+1609755047999	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609755126582	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609755150428	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609755180454	Marionette	INFO	Stopped listening on port 25985
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609755201501	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VIVALD~1\\AppData\\Local\\Temp\\rust_mozprofileivxpsQ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609755204548	Marionette	INFO	Listening on port 26151
+1609755204712	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1609755264302	Marionette	INFO	Stopped listening on port 26151
