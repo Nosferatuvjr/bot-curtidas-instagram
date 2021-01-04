@@ -9,7 +9,7 @@ class InstagramBot:
         self.username = username
         self.password = password
         self.driver = webdriver.Firefox(
-            executable_path=r'C:\Users\Vivaldo JR\Desktop\bot_curtidas_instagram\geckodriver.exe'
+            executable_path=r''
         )  # Coloque o caminho para o seu geckodriver aqui
 
     def login(self):
